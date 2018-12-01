@@ -384,7 +384,7 @@ button img{
 	font-size: 0;
 	background: none;
 	transform: rotate(180deg);
-	padding-top: 8px;
+	padding-top: 5px;
 }
 
 .owl-carousel .owl-nav .owl-prev:before { 
@@ -408,6 +408,7 @@ button img{
 	height: 30px;	
 	font-size: 0;
 	background: none;
+	padding-top: 2px;
 }
 
 .wrapper__title h2{
@@ -1661,6 +1662,10 @@ button img{
 	width: auto;
 }
 
+.wrapper__animal .carousel .owl-carousel .owl-nav .owl-prev{
+	padding-top: 5px;
+}
+
 .wrapper__animal .about{
 	background: none; 
 	background-color: #fff;
@@ -2133,6 +2138,9 @@ button img{
 		left: 20%;	
 		bottom: 15px;
 		width: auto;
+	}
+	.carousel .owl-carousel .owl-nav .owl-prev{
+		padding-top: 5px;
 	}
 	.promo-wrapper{
 		flex-direction: column;
