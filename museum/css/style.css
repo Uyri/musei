@@ -379,11 +379,12 @@ button img{
 }
 
 .carousel .owl-carousel .owl-nav .owl-prev {
-	width: 40px;
+	width: 30px;
 	height: 30px;	
 	font-size: 0;
 	background: none;
 	transform: rotate(180deg);
+	padding-top: 8px;
 }
 
 .owl-carousel .owl-nav .owl-prev:before { 
@@ -403,7 +404,7 @@ button img{
 }
 
 .carousel .owl-carousel .owl-nav .owl-next {
-	width: 40px;
+	width: 30px;
 	height: 30px;	
 	font-size: 0;
 	background: none;
